@@ -1,2 +1,2 @@
 # C-LANGUAGE
-Pratice codes of C
+C Practice Tasks and Exercises
